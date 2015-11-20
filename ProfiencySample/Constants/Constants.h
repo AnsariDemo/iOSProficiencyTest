@@ -28,7 +28,7 @@
 #define StringOrEmpty(A)  ({ __typeof__(A) __a = (A); __a ? __a : @""; })
 #endif
 
-//Json feed Url
+/////Json feed Url
 #define JSON_FEED_URL @"https://dl.dropboxusercontent.com/u/746330/facts.json"
 
 //Image Constant
